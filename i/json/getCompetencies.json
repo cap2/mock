@@ -1,0 +1,1199 @@
+{
+  "page": 1,
+  "total": 27,
+  "more": 0,
+  "results": [
+    {
+      "level_id": 1,
+      "name": "Stage 1",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 1,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 1,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 1,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 1,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 1,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 2
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 1,
+          "name": "Stage 1",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 1,
+      "name": "Stage 1",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 1,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 1,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 1,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 1,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 1,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 2
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 1,
+          "name": "Stage 1",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "name": "Stage 2",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 2,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 2,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 2,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 2,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 2,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 3
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 2,
+          "name": "Stage 2",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "name": "Stage 2",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 2,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 2,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 2,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 2,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 2,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 3
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 2,
+          "name": "Stage 2",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 3,
+      "name": "Stage 3",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 3,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 3,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 3,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 3,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 3,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 4
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 3,
+          "name": "Stage 3",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 3,
+      "name": "Stage 3",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 3,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 3,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 3,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 3,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 3,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 4
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 3,
+          "name": "Stage 3",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "name": "Stage 4",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 4,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 4,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 4,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 4,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 4,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 5
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 4,
+          "name": "Stage 4",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "name": "Stage 4",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 4,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 4,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 4,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 4,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 4,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 5
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 4,
+          "name": "Stage 4",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 5,
+      "name": "Stage 5",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 5,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 5,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 5,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 5,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 5,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 6
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 5,
+          "name": "Stage 5",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 5,
+      "name": "Stage 5",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 5,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 5,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 5,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 5,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 5,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 6
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 5,
+          "name": "Stage 5",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+        {
+      "level_id": 6,
+      "name": "Stage 6",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 6,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 6,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 6,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 6,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 6,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 7
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 6,
+          "name": "Stage 6",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 6,
+      "name": "Stage 6",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 6,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 6,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 6,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 6,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 6,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 7
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 6,
+          "name": "Stage 6",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 7,
+      "name": "Stage 7",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 7,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 7,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 7,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 7,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 7,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 8
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 7,
+          "name": "Stage 7",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 7,
+      "name": "Stage 7",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 7,
+          "group_id": 1
+        },
+        {
+          "course_id": 2,
+          "order": 7,
+          "group_id": 3
+        },
+        {
+          "course_id": 4,
+          "order": 7,
+          "group_id": 1
+        },
+        {
+          "course_id": 5,
+          "order": 7,
+          "group_id": 1
+        },
+        {
+          "course_id": 6,
+          "order": 7,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 8
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 7,
+          "name": "Stage 7",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 8,
+      "name": "Stage 8",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 1,
+          "group_id": 2
+        },
+        {
+          "course_id": 2,
+          "order": 1,
+          "group_id": 4
+        },
+        {
+          "course_id": 4,
+          "order": 1,
+          "group_id": 2
+        },
+        {
+          "course_id": 5,
+          "order": 1,
+          "group_id": 2
+        },
+        {
+          "course_id": 6,
+          "order": 8,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 9
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 8,
+          "name": "Competitive Swim",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 9,
+          "name": "Flip N Fun",
+          "order": 2,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 10,
+          "name": "Water Polo",
+          "order": 3,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 11,
+          "name": "Synchro",
+          "order": 4,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },    {
+      "level_id": 8,
+      "name": "Stage 8",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 1,
+          "group_id": 2
+        },
+        {
+          "course_id": 2,
+          "order": 1,
+          "group_id": 4
+        },
+        {
+          "course_id": 4,
+          "order": 1,
+          "group_id": 2
+        },
+        {
+          "course_id": 5,
+          "order": 1,
+          "group_id": 2
+        },
+        {
+          "course_id": 6,
+          "order": 8,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 9
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 8,
+          "name": "Competitive Swim",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 9,
+          "name": "Flip N Fun",
+          "order": 2,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 10,
+          "name": "Water Polo",
+          "order": 3,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 11,
+          "name": "Synchro",
+          "order": 4,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 9,
+      "name": "Stage 9",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 2,
+          "group_id": 2
+        },
+        {
+          "course_id": 2,
+          "order": 2,
+          "group_id": 4
+        },
+        {
+          "course_id": 4,
+          "order": 2,
+          "group_id": 2
+        },
+        {
+          "course_id": 5,
+          "order": 2,
+          "group_id": 2
+        },
+        {
+          "course_id": 6,
+          "order": 9,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 10
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 12,
+          "name": "Competitive Swim",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 13,
+          "name": "Flip and Fun",
+          "order": 2,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 14,
+          "name": "Water Polo",
+          "order": 3,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 15,
+          "name": "AquaFun",
+          "order": 4,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 9,
+      "name": "Stage 9",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 2,
+          "group_id": 2
+        },
+        {
+          "course_id": 2,
+          "order": 2,
+          "group_id": 4
+        },
+        {
+          "course_id": 4,
+          "order": 2,
+          "group_id": 2
+        },
+        {
+          "course_id": 5,
+          "order": 2,
+          "group_id": 2
+        },
+        {
+          "course_id": 6,
+          "order": 9,
+          "group_id": 6
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 10
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 12,
+          "name": "Competitive Swim",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 13,
+          "name": "Flip and Fun",
+          "order": 2,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 14,
+          "name": "Water Polo",
+          "order": 3,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 15,
+          "name": "AquaFun",
+          "order": 4,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 10,
+      "name": "Stage 10",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 3,
+          "group_id": 2
+        },
+        {
+          "course_id": 2,
+          "order": 3,
+          "group_id": 4
+        },
+        {
+          "course_id": 4,
+          "order": 3,
+          "group_id": 2
+        },
+        {
+          "course_id": 5,
+          "order": 3,
+          "group_id": 2
+        },
+        {
+          "course_id": 6,
+          "order": 10,
+          "group_id": 6
+        }
+      ],
+      "progression": [],
+      "groups": [
+        {
+          "group_id": 16,
+          "name": "Competitive Swim",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 17,
+          "name": "Synchro",
+          "order": 2,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 18,
+          "name": "Water Polo",
+          "order": 3,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 19,
+          "name": "Diving ",
+          "order": 4,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 10,
+      "name": "Stage 10",
+      "courses": [
+        {
+          "course_id": 1,
+          "order": 3,
+          "group_id": 2
+        },
+        {
+          "course_id": 2,
+          "order": 3,
+          "group_id": 4
+        },
+        {
+          "course_id": 4,
+          "order": 3,
+          "group_id": 2
+        },
+        {
+          "course_id": 5,
+          "order": 3,
+          "group_id": 2
+        },
+        {
+          "course_id": 6,
+          "order": 10,
+          "group_id": 6
+        }
+      ],
+      "progression": [],
+      "groups": [
+        {
+          "group_id": 16,
+          "name": "Competitive Swim",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 17,
+          "name": "Synchro",
+          "order": 2,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 18,
+          "name": "Water Polo",
+          "order": 3,
+          "state": 1,
+          "competencies": []
+        },
+        {
+          "group_id": 19,
+          "name": "Diving ",
+          "order": 4,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },    {
+      "level_id": 11,
+      "name": "Red Level 3 (5)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 1,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 12
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 20,
+          "name": "Red Level 3 (5)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 12,
+      "name": "Red Level 2 (10)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 2,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 13
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 21,
+          "name": "Red Level 2 (10)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 13,
+      "name": "Red Level 1 (15/20)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 3,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 14
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 22,
+          "name": "Red Level 1 (15/20)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 14,
+      "name": "Orange Level 3 (10)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 4,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 15
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 23,
+          "name": "Orange Level 3 (10)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 15,
+      "name": "Orange Level 2 (15)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 5,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 16
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 24,
+          "name": "Orange Level 2 (15)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+        {
+      "level_id": 16,
+      "name": "Orange Level 1 (20)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 6,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 17
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 25,
+          "name": "Orange Level 1 (20)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    },
+    {
+      "level_id": 17,
+      "name": "Green Tennis (10/15/20)",
+      "courses": [
+        {
+          "course_id": 3,
+          "order": 7,
+          "group_id": 5
+        }
+      ],
+      "progression": [
+        {
+          "to_level_id": 18
+        }
+      ],
+      "groups": [
+        {
+          "group_id": 26,
+          "name": "Green Tennis (10/15/20)",
+          "order": 1,
+          "state": 1,
+          "competencies": []
+        }
+      ]
+    }
+  ],
+  "status": 0
+}
