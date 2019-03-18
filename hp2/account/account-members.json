@@ -1,0 +1,99 @@
+{
+ "members": [
+    {
+      "primary_member": true,
+      "id": 100,
+      "name": "Abigail Lyons",
+      "address": {
+        "address1": "12 some road",
+        "address2": "somewhere",
+        "address3": "over the",
+        "city": "rainbow",
+        "county": "Gloucestershire",
+        "postcode": "BS165RR"
+      },
+      "email": [
+        "abigain.farmer@mail.com",
+        "abi@email.co.uk"
+      ],
+      "dob": "2003-05-13",
+      "home_centre": "Westminster",
+      "telephone": ["011792554", "01178877445"],
+      "marketing_preferences": {
+        "last_updated": "2018-08-22",
+        "allow_contact_email": true,
+        "allow_contact_telephone": false,
+        "allow_contact_sms": false,
+        "allow_contact_mail": true
+      },
+      "medical_consent": {
+        "status": true,
+        "last_updated": "2018-09-01"
+      },
+      "terms_last_updated": "2002-02-02"
+    },
+    {
+      "primary_member": false,
+      "id": 100,
+      "name": "Arnie Farmer",
+      "address": {
+        "address1": "12 another road",
+        "address2": "somewhere",
+        "address3": "",
+        "city": "double rainbow",
+        "county": "South Gloucestershire",
+        "postcode": "BS165SS"
+      },
+      "email": [
+        "arnie.farmer@mail.com"
+      ],
+      "dob": "2003-05-13",
+      "home_centre": "Westminster",
+      "telephone": ["011792554"],
+      "marketing_preferences": {
+        "last_updated": "2018-08-22",
+        "allow_contact_email": true,
+        "allow_contact_telephone": false,
+        "allow_contact_sms": false,
+        "allow_contact_mail": true
+      },
+      "medical_consent": {
+        "status": true,
+        "last_updated": "2018-09-01"
+      },
+      "terms_last_updated": "2003-03-03"
+    },
+    {
+      "primary_member": false,
+      "id": 100,
+      "name": "Tom Smith",
+      "address": {
+        "address1": "13 same road",
+        "address2": "lucky for",
+        "city": "some",
+        "county": "Gloucestershire",
+        "postcode": "BS165LL"
+      },
+      "email": [
+        "smithtom@mail.com"
+      ],
+      "dob": "2003-05-13",
+      "home_centre": "Westminster",
+      "telephone": ["011792222"],
+      "marketing_preferences": {
+        "last_updated": "2018-08-22",
+        "contact_methods": {
+          "allow_contact_email": true,
+          "allow_contact_telephone": false,
+          "allow_contact_sms": false,
+          "allow_contact_mail": true
+        }
+      },
+      "medical_consent": {
+        "status": true,
+        "last_updated": "2018-09-01"
+      },
+      "terms_last_updated": "2004-04-04"
+    }
+  ]
+  }

@@ -1,0 +1,395 @@
+{
+ "members_classes": [
+    {
+      "id": 100,
+      "name": "Abigail Lyons",
+      "classes": [
+        {
+          "name": "Stage 1",
+          "time": "09:30",
+          "sessions_status": "2 Prepaid sessions remaining",
+          "last_session": "2018-03-12",
+          "next_session": "2018-03-19",
+          "progress_percentage": 56,
+          "class_grades": [
+            {
+              "id": 1,
+              "description": "Not assessed"
+            },
+            {
+              "id": 2,
+              "description": "Needs practise"
+            },
+            {
+              "id": 3,
+              "description": "fair"
+            },
+            {
+              "id": 4,
+              "description": "good"
+            },
+            {
+              "id": 5,
+              "description": "pass"
+            }
+          ],
+          "competencies": [
+            {
+              "last_updated": "2018-09-27",
+              "description": "Enter the water safely",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move / paddle forwards 5 meters face down in the water",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move / paddle backwards 5 meters",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move sideways 5 meters",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Scoop water and wash face",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Be at ease with water showered from over head",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move into a stretched floating position using aids, equipment or support - must obtain a flat body position",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Regain an upright position from on the back with support",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move into a stretched floating position using aids, equipment or support - must obtain a flat body position",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Regain an upright position from on the back with support",
+              "current_grade_id": 2
+            }
+          ]
+        }
+      ],
+      "badges": [
+        {
+          "name": "Stage 1",
+          "class_name": "Stage 1 class",
+          "achieve_date": "2018-05-02"
+        }
+      ],
+      "class_history": [
+        {
+          "class_name": "Stage 1 class",
+          "level": "Stage 1",
+          "start_date": "2018-02-14",
+          "completion_date": "2018-05-20"
+        },
+        {
+          "class_name": "Toddlers",
+          "level": "Toddler stage 2",
+          "start_date": "2017-07-14",
+          "completion_date": "2017-09-20"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Arnie Farmer",
+      "classes": [
+        {
+          "name": "Stage 2",
+          "time": "10:45",
+          "sessions_status": "Direct debit customer",
+          "last_session": "2019-01-05",
+          "next_session": "2018-02-05",
+          "progress_percentage": 40,
+          "class_grades": [
+            {
+              "id": 1,
+              "description": "Not assessed"
+            },
+            {
+              "id": 2,
+              "description": "Needs practise"
+            },
+            {
+              "id": 3,
+              "description": "fair"
+            },
+            {
+              "id": 4,
+              "description": "good"
+            },
+            {
+              "id": 5,
+              "description": "pass"
+            }
+          ],
+          "competencies": [
+            {
+              "last_updated": "2018-05-27",
+              "description": "Jump in from poolside safely",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Blow bubbles a minimum of 3 times rhythmically with nose and mouth submerged.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Regain an upright position from the back without support.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Regain an upright position from the front without support.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Push from wall and glide on the back.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Push from wall and glide on the front.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Travel on the back in a flat body position with basic arm pull for 5 metres.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Travel on the front in a flat body position with basic arm pull for 5 metres.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Perform a rotation from the front to the back to gain an upright position.",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-05-27",
+              "description": "Perform a rotation from the back to the front to gain an upright position.",
+              "current_grade_id": 1
+            }
+          ]
+        }
+      ],
+      "badges": [
+        {
+          "name": "800M",
+          "class_name": "Stage 1",
+          "achieve_date": "2018-05-05"
+        }
+      ],
+      "class_history": [
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Tom Smith",
+      "classes": [
+        {
+          "name": "Stage 2 Tom",
+          "time": "14:00",
+          "sessions_status": "5 prepaid sessions remaining",
+          "last_session": "2019-02-13",
+          "next_session": "2019-02-20",
+          "progress_percentage": 90,
+          "class_grades": [
+            {
+              "id": 1,
+              "description": "Not assessed"
+            },
+            {
+              "id": 2,
+              "description": "Needs practise"
+            },
+            {
+              "id": 3,
+              "description": "fair"
+            },
+            {
+              "id": 4,
+              "description": "good"
+            },
+            {
+              "id": 5,
+              "description": "pass"
+            }
+          ],
+          "competencies": [
+            {
+              "last_updated": "2018-09-20",
+              "description": "Swim 5m Synchro Breaststroke then 5m Synchro Backstroke using a smooth transition.",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Move from back layout to bent knee, then lift to ballet leg using buoyancy aid / use pool to support horizontal leg.",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Hold an inverted pike position using buoyancy aid.",
+              "current_grade_id": 4
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Back tuck somersault.",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Perform Oyster",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Eggbeater travelling 3m return in opposite direction creating an arm movement.",
+              "current_grade_id": 4
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Perform a feet first entry with arms extended by ears throughout.",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Perform a sequence lasting 45 seconds - 1 min to music, and include one stroke (or arm variation) and one figure from the above or NPTS Stage 8.",
+              "current_grade_id": 5
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Complete a set lasting 800m on a specific times turn around set by coach (e.g. either 16 x 50m on 1:30; 8 x 100m on 2.45; 4 x 200m on 6mins).",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-20",
+              "description": "Perform a Front Crawl start, underwater kick in a streamlined position until a minimum of 10m from the wall is completed, transfer into stroke and complete remainder of the 25m.",
+              "current_grade_id": 5
+            }
+          ]
+        },
+        {
+          "name": "Class 2 Tom",
+          "time": "18:00",
+          "sessions_status": "Direct Debit customer",
+          "last_session": "2019-01-05",
+          "next_session": "2019-1-12",
+          "progress_percentage": 66,
+          "class_grades": [
+            {
+              "id": 1,
+              "description": "Not assessed"
+            },
+            {
+              "id": 2,
+              "description": "Needs practise"
+            },
+            {
+              "id": 3,
+              "description": "fair"
+            },
+            {
+              "id": 4,
+              "description": "good"
+            },
+            {
+              "id": 5,
+              "description": "pass"
+            }
+          ],
+          "competencies": [
+            {
+              "last_updated": "2018-09-27",
+              "description": "Enter the water safely",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move / paddle forwards 5 meters face down in the water",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move / paddle backwards 5 meters",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move sideways 5 meters",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Scoop water and wash face",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Be at ease with water showered from over head",
+              "current_grade_id": 3
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move into a stretched floating position using aids, equipment or support - must obtain a flat body position",
+              "current_grade_id": 2
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Regain an upright position from on the back with support",
+              "current_grade_id": 4
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Move into a stretched floating position using aids, equipment or support - must obtain a flat body position",
+              "current_grade_id": 1
+            },
+            {
+              "last_updated": "2018-09-27",
+              "description": "Regain an upright position from on the back with support",
+              "current_grade_id": 5
+            }
+          ]
+        }
+      ],
+      "badges": [
+        {
+          "name": "1k",
+          "class_name": "Stage 1 Tom",
+          "achieve_date": "2019-03-24"
+        }
+      ],
+      "class_history": [
+        {
+          "class_name": "Stage 1",
+          "level": "Stage 1",
+          "start_date": "2018-03-05",
+          "completion_date": "2018-04-12"
+        }
+      ]
+    }
+  ]
+}
