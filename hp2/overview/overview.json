@@ -118,7 +118,7 @@
           "name": "Stage 2",
           "time": "10:45",
           "sessions_status": "Direct debit customer",
-          "sessions_remaining": "dd",
+          "sessions_remaining": "&#8734",
           "last_session": "2019-01-05",
           "next_session": "2018-02-05",
           "progress_percentage": 40,
