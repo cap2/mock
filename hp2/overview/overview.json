@@ -7,7 +7,8 @@
         {
           "name": "Stage 1",
           "time": "09:30",
-          "sessions_status": "2 Prepaid sessions remaining",
+          "sessions_status": "Prepaid sessions remaining",
+          "sessions_remaining": 3,
           "last_session": "2018-03-12",
           "next_session": "2018-03-19",
           "progress_percentage": 56,
@@ -117,6 +118,7 @@
           "name": "Stage 2",
           "time": "10:45",
           "sessions_status": "Direct debit customer",
+          "sessions_remaining": "dd",
           "last_session": "2019-01-05",
           "next_session": "2018-02-05",
           "progress_percentage": 40,
@@ -213,7 +215,8 @@
         {
           "name": "Stage 2 Tom",
           "time": "14:00",
-          "sessions_status": "5 prepaid sessions remaining",
+          "sessions_status": "Prepaid sessions remaining",
+          "sessions_remaining": 10,
           "last_session": "2019-02-13",
           "next_session": "2019-02-20",
           "progress_percentage": 90,
