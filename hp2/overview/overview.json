@@ -299,6 +299,7 @@
           "name": "Class 2 Tom",
           "time": "18:00",
           "sessions_status": "Direct Debit customer",
+		  "sessions_remaining": "&#8734",
           "last_session": "2019-01-05",
           "next_session": "2019-1-12",
           "progress_percentage": 66,
