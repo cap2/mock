@@ -7,6 +7,7 @@
         {
           "name": "Stage 1",
           "time": "09:30",
+          "day_of_week": "Wednesday",
           "sessions_status": "Prepaid sessions remaining",
           "sessions_remaining": 3,
           "last_session": "2018-03-12",
@@ -115,8 +116,9 @@
       "name": "Arnie Farmer",
       "classes": [
         {
-          "name": "Stage 2",
+          "name": "Stage 2 for Kids between (6-8 years old)",
           "time": "10:45",
+          "day_of_week": "Friday",
           "sessions_status": "Direct debit customer",
           "sessions_remaining": "&#8734",
           "last_session": "2019-01-05",
@@ -210,11 +212,12 @@
     },
     {
       "id": 102,
-      "name": "Tom Smith",
+      "name": "Michael Matthew Johnson",
       "classes": [
         {
-          "name": "Stage 2 Tom",
+          "name": "Stage 4 Advanced Swimming for Adults",
           "time": "14:00",
+          "day_of_week": "Saturday",
           "sessions_status": "Prepaid sessions remaining",
           "sessions_remaining": 10,
           "last_session": "2019-02-13",
@@ -296,8 +299,9 @@
           ]
         },
         {
-          "name": "Class 2 Tom",
+          "name": "Class 4 Advanced Swimming for Adults",
           "time": "18:00",
+          "day_of_week": "Monday",
           "sessions_status": "Direct Debit customer",
 		  "sessions_remaining": "&#8734",
           "last_session": "2019-01-05",

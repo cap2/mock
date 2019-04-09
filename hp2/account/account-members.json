@@ -17,7 +17,7 @@
         "abi@email.co.uk"
       ],
       "dob": "2003-05-13",
-      "home_centre": "Westminster",
+      "home_centre": "Westminster Leisure Centre",
       "telephone": ["011792554", "01178877445"],
       "marketing_preferences": {
         "last_updated": "2018-08-22",
@@ -35,7 +35,7 @@
     {
       "primary_member": false,
       "id": 100,
-      "name": "Arnie Farmer",
+      "name": "Michael Matthew Johnson",
       "address": {
         "address1": "12 another road",
         "address2": "somewhere",
@@ -48,7 +48,7 @@
         "arnie.farmer@mail.com"
       ],
       "dob": "2003-05-13",
-      "home_centre": "Westminster",
+      "home_centre": "Bath Centre",
       "telephone": ["011792554"],
       "marketing_preferences": {
         "last_updated": "2018-08-22",
@@ -66,7 +66,7 @@
     {
       "primary_member": false,
       "id": 100,
-      "name": "Tom Smith",
+      "name": "Arnie Farmer",
       "address": {
         "address1": "13 same road",
         "address2": "lucky for",
@@ -78,7 +78,7 @@
         "smithtom@mail.com"
       ],
       "dob": "2003-05-13",
-      "home_centre": "Westminster",
+      "home_centre": "London Swimming Academy",
       "telephone": ["011792222"],
       "marketing_preferences": {
         "last_updated": "2018-08-22",
