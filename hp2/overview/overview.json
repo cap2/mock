@@ -99,13 +99,13 @@
       "class_history": [
         {
           "class_name": "Stage 1 class",
-          "level": "Stage 1",
+          "course": "Swim School (Continuous)",
           "start_date": "2018-02-14",
           "completion_date": "2018-05-20"
         },
         {
           "class_name": "Toddlers",
-          "level": "Toddler stage 2",
+          "course": "Swim School (Fixed)",
           "start_date": "2017-07-14",
           "completion_date": "2017-09-20"
         }
@@ -208,6 +208,18 @@
         }
       ],
       "class_history": [
+        {
+          "class_name": "Stage 1",
+          "course": "Tennis Course",
+          "start_date": "2018-02-14",
+          "completion_date": "2018-05-20"
+        },
+        {
+          "class_name": "Beginners Tennis",
+          "course": "Tennis Course",
+          "start_date": "2017-06-22",
+          "completion_date": "2017-08-28"
+        }
       ]
     },
     {
@@ -392,10 +404,16 @@
       ],
       "class_history": [
         {
-          "class_name": "Stage 1",
-          "level": "Stage 1",
+          "class_name": "Fundamental Gymnastics 8+ years",
+          "course": "Gymnastics",
           "start_date": "2018-03-05",
           "completion_date": "2018-04-12"
+        },
+        {
+          "class_name": "Fundamental Gymnastics",
+          "course": "Gymnastics (Holiday Course)",
+          "start_date": "2018-02-05",
+          "completion_date": "2018-06-08"
         }
       ]
     }
