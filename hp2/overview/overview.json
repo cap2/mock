@@ -6,6 +6,7 @@
       "classes": [
         {
           "name": "Stage 1",
+		  "id": 33,
           "time": "09:30",
           "day_of_week": "Wednesday",
           "sessions_status": "Prepaid sessions remaining",
@@ -117,6 +118,7 @@
       "classes": [
         {
           "name": "Stage 2 for Kids between (6-8 years old)",
+		  "id": 44,
           "time": "10:45",
           "day_of_week": "Friday",
           "sessions_status": "Direct debit customer",
@@ -228,6 +230,7 @@
       "classes": [
         {
           "name": "Stage 4 Advanced Swimming for Adults",
+		  "id": 55,
           "time": "14:00",
           "day_of_week": "Saturday",
           "sessions_status": "Prepaid sessions remaining",
@@ -312,6 +315,7 @@
         },
         {
           "name": "Class 4 Advanced Swimming for Adults",
+		  "id": 66,
           "time": "18:00",
           "day_of_week": "Monday",
           "sessions_status": "Direct Debit customer",
