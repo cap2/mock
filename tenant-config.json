@@ -1,0 +1,18 @@
+{
+    "tenant": {
+        "tenant_name": "demo",
+        "theme_name": "default-theme",
+        "asset_path": "/tenant/demo/overrides",
+        "available_languages": ["en", "cy"],
+        "default_language": "en",
+        "currencyIso": "GBP",
+        "prefixApi": "http://localhost",
+        "postfixApi": "/portal/api/HomePortal",
+        "postcodeEnabled": false,
+        "paymentRedirectUrlBase": "",
+        "homeportalRedirectUrl": "",
+        "tenant_footer": false,
+        "tenant_logo": "homeportal.svg",
+        "enableI18nInheritance": true
+   } 
+}
